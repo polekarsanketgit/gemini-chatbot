@@ -1,6 +1,6 @@
 #===============================================
 #   To run this code run below line in terminal 
-#   python -m streamlit run demo.py 
+#   python -m streamlit run Streamlit-demo.py 
 #===============================================
 
 import streamlit as st
